@@ -5,4 +5,4 @@
 
 详细内容见博客：http://blog.csdn.net/goodlixueyong/article/details/51142797
 
-![](https://github.com/viclee2014/BarrageView/blob/master/app/src/main/res/raw/swipe-back-activity.gif)
+![](https://github.com/viclee2014/SwipeBackActivity/blob/master/app/src/main/res/raw/swipe-back-activity.gif)
